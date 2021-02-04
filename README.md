@@ -6,13 +6,12 @@ This repository is a collection of my gists (working ✅ code snippets passing a
 
 #Notes:
 Sometimes, multiple solutions/approaches have been provided with relevant comments in the solution file, these are being continuously updated as and when I find a more optimized solution. Be wary of copying two solutions separated by comments simultaneously to run/submit on InterviewBit's online judge. Both shall work individually.
-I've used C++11 (list initialization, auto, emplace_back, etc) features in each and every solution.
-The solutions also succinctly encompasses years of C++ industry programming experience and care has been taken to optimize even at the slightest visible portions of the code.
+The solutions also succinctly encompasses years of java industry programming experience and care has been taken to optimize even at the slightest visible portions of the code.
 The code in this repo is completely original content and written by me. If you like what you see, don't forget to show your liking by ⭐ing this repo.
 How to contribute?
 Fork the repository 🍴
 Do the desired changes (add/delete/modify) ✏️
-Make sure you've followed the existing coding standards and pattern of pasting the entire problem statement with a link to the problem on InterviewBit. For reference, you can follow any existing file in this Repo. e.g. AddOneToNumber.cpp
+Make sure you've followed the existing coding standards and pattern of pasting the entire problem statement with a link to the problem on InterviewBit.
 Attach a screenshot from InterviewBit showing that your solution was ACCEPTED by the online judge. I've been getting a lot of pull requests which are not Accepted by the online judge.
 Make a pull request :shipit:
 When should you contribute?
